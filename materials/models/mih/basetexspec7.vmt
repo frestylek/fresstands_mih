@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mih/baseTexspec7"
+	"$bumpmap" "models/mih/basebump"
+	"$translucent" "1"
+	"$additive" "1"
+
+	"$phongexponenttexture" "models/mih/exp"
+	"$phongexponent" "10"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[2 2 2 2]"
+}

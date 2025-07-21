@@ -1,0 +1,11 @@
+"eyes"
+{
+	"$basetexture" "models/mih/eyetex"
+	"$iris" "models/mih/eyetex"
+	"$halflambert" 1
+	"$envmap" "env_cubemap" 
+	"$glossiness" "1"
+	"$raytracesphere" "1"
+	"$spheretexkillcombo" "1"
+	"$parallaxstrength" "1"
+}
